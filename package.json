@@ -1,0 +1,22 @@
+{
+  "name": "trevorpierce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AHSDevClass/TrevorPierce.git"
+  },
+  "author": "Trevor Pierce <trev.g.pierce@gmail.com> (http://www.yourhomepage.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AHSDevClass/TrevorPierce/issues"
+  },
+  "homepage": "https://github.com/AHSDevClass/TrevorPierce#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
